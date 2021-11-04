@@ -28,3 +28,5 @@ My Whatsapp Group👇
 
 # Thanks To
 * [`N17R0`](https://github.com/N17R0-HACKERS)
+## WARNING : 
+***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
